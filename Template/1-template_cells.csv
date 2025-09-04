@@ -55,6 +55,6 @@ GRN,0000,0000,0000,0000,0000,DTR,0000,0000,0000,0000,0000,0000,0000,0000,0000,00
 Text,,,,,,,,,,,,,,,,,,,
 Power | Raw:5V-16V (6V-12V recommended)| VCC:5V | Maximum current: 150mA @5V,,,,,,,,,,,,,,,,,,,
 LEDs | Power: Red | User (D13): Green,,,,,,,,,,,,,,,,,,,
-Arduino Pro Mini (DEV-11113) | Programmed as Arduino Pro Mini w/ ATMega328,16MHz/ 5V,,,,,,,,,,,,,,,,,,,
+Arduino Pro Mini (DEV-11113) | Programmed as Arduino Pro Mini w/ ATMega328,16MHz/ 5V,,,,,,,,,,,,,,,,,,,,
 Reset Button | Extras | ATmega328, Logo, Legend, FTDI,,,,,,,,,,,,,,,,,,,
 EOF,,,,,,,,,,,,,,,,,,,
